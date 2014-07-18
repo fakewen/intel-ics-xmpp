@@ -12,7 +12,7 @@ public class Reciever{
 			String USER_NAME = "sub";
 			String PASSWORD = "sub";
 			String ServerAddress = "wukong.ccc.ntu.edu.tw";
-			String ServerName = "pubsub.140.112.170.32";
+			String ServerName = "pubsub.wukong.ccc.ntu.edu.tw";
 			String port="5222";
 		XMPP.XMPPinit(USER_NAME,PASSWORD,ServerAddress,port,ServerName);
 
