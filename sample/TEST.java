@@ -13,7 +13,7 @@ public class TEST{
 		String PASSWORD = "pub";
 		//String ServerAddress = "140.112.170.26";
 		String ServerAddress = "wukong.ccc.ntu.edu.tw";
-		String ServerName = "pubsub.140.112.170.32";
+		String ServerName = "pubsub.wukong.ccc.ntu.edu.tw";
 		String port = "5222";//The standard port for clients to connect to the server
 		XMPP.XMPPinit(USER_NAME,PASSWORD,ServerAddress,port,ServerName);
 
