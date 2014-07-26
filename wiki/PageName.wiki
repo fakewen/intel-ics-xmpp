@@ -3,12 +3,13 @@
 
 = Introduction =
 
-Add your content here.
-
+XMPP client API, which currently support Java and C.
+In the near future, XMPP API will be available in Python or even C# .
 
 = Details =
+r1-r15
+Update XMPP API on Java
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+r16.
+XMPP.java support connection, publish and subscribe function.
+agent_height.java is a scenario that determine there is a kid closed by danger zone and trigger warming mechanism.
