@@ -32,8 +32,8 @@ import java.net.Socket;
 public class XMPP{
 
 
-	static ConnectionConfiguration config;// = new ConnectionConfiguration("140.112.170.26",Integer.parseInt("5222"));
-	static Connection connection;// = new XMPPConnection(config);
+	static ConnectionConfiguration config;
+	static Connection connection;
 	static PubSubManager manager;
 
 	public static void XMPPinit(String USER_NAME,String PASSWORD, String ServerAddress, String port, String ServerName){
