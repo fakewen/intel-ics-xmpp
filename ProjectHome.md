@@ -1,0 +1,1 @@
+This is XMPP API for client publish & subscribe context on IM server in ICS. We also aim to divide this into two parts, one for common interface which can be shared with several projects and protocols such as OPENMTC, one for specific architecture of XMPP.
